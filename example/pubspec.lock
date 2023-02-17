@@ -651,15 +651,6 @@ packages:
       relative: true
     source: path
     version: "2.5.1"
-  video_player_android:
-    dependency: transitive
-    description:
-      path: "."
-      ref: main
-      resolved-ref: "847a6502265c7f7c4630ea2d69e496d002073070"
-      url: "git@github.com:NguyenXuanLoc/video_player_androids.git"
-    source: git
-    version: "2.3.10"
   video_player_avfoundation:
     dependency: transitive
     description:

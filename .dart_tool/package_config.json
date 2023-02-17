@@ -152,12 +152,6 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "video_player_android",
-      "rootUri": "file:///C:/Users/Admin/AppData/Local/Pub/Cache/git/video_player_androids-847a6502265c7f7c4630ea2d69e496d002073070/",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
-    },
-    {
       "name": "video_player_avfoundation",
       "rootUri": "file:///C:/Users/Admin/AppData/Local/Pub/Cache/hosted/pub.dev/video_player_avfoundation-2.3.8",
       "packageUri": "lib/",
@@ -182,7 +176,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2023-02-16T09:43:52.809251Z",
+  "generated": "2023-02-17T07:28:39.196544Z",
   "generator": "pub",
   "generatorVersion": "2.19.1"
 }
